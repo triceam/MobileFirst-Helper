@@ -14,7 +14,9 @@ WLProcedureInvocationData *invocationData =
 		initWithAdapterName:@"StockAdapter"
 			  procedureName:@"getList"];
 	
-[WLClientHelper invokeProcedure:invocationData successCallback:^(WLResponse *successResponse) {
+[WLClientHelper invokeProcedure:invocationData 
+	successCallback:^(WLResponse *successResponse) {
+	
 	//handle the response	
 } errorCallback:^(WLFailResponse *errorResponse) {
 	//handle the error response
