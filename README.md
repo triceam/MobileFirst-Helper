@@ -1,5 +1,5 @@
 # MobileFirst-Helper
-Utility class for native iOS MobileFirst/Worklight applications.  
+Utility class for native iOS MobileFirst/Worklight applications.  To use, just include the .h and .m files in your project, import the header, then start coding.
 
 
 # invokeProcedure
