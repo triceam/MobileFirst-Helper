@@ -5,7 +5,7 @@ Utility class for native iOS MobileFirst/Worklight applications.  To use, just i
 # invokeProcedure
 
 
-Utility function to invoke a MobileFirst/Worklight procedure using code blocks instead of defining delegate classes. *This is for MobileFirst Platform Foundation Server 6 and newer, for native iOS applications. You can also use code blocks using the [WLResourceRequest](https://www-01.ibm.com/support/knowledgecenter/SSHSCD_7.0.0/com.ibm.worklight.apiref.doc/html/refobjc-worklight-ios/html/interface_w_l_resource_request.html?cp=SSHSCD_7.0.0%2F8-0-0-2-0-51) API in MobileFirst Platform Foundation Server 7.*
+Utility function to invoke a MobileFirst/Worklight procedure using code blocks instead of defining delegate classes. *This is for MobileFirst Platform Foundation Server 6 and newer, for native iOS applications. You can also use code blocks using the [WLResourceRequest](https://www-01.ibm.com/support/knowledgecenter/api/content/SSHSCD_7.0.0/com.ibm.worklight.apiref.doc/html/refobjc-worklight-ios/html/interface_w_l_resource_request.html?locale=en) API in MobileFirst Platform Foundation Server 7.*
 
 Sample:
 ``` 
